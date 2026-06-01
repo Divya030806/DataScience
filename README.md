@@ -27,7 +27,6 @@ This project analyzes the relationship between Bitcoin market sentiment and trad
 - Win rates were higher during positive market sentiment.
 
 ## Files
-- analysis.py
 - historical_data.csv
 - fear_greed.csv
 
